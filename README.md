@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dost0092" alt="dost0092" /></a> </p>
 
 - 🔭 I’m currently working on [Cat-Connect](https://github.com/Moon-Khan/CatConnect)
+- 🔭 I worked on this project [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis)
 
 - 🌱 I’m currently learning **BI, Big Query, Data Pipelines,**
 
