@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waqas Dost</h1>
 <h3 align="center">Passionate Computer Science student at FAST-NUCES. Enthusiastic about Data Science, I love exploring cutting-edge technologies.</h3>
 
-<img alt="Coding" width="400" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dost0092&label=Profile%20views&color=0e75b6&style=flat" alt="dost0092" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dost0092" alt="dost0092" /></a> </p>
-
 - 🔭 I’m currently working on [Cat-Connect](https://github.com/Moon-Khan/CatConnect)
 - 🔭 I worked on these projects [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict)
 
