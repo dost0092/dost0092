@@ -11,6 +11,7 @@
 - 💬 Ask me about **Business Analysis, BI , Tableau **
 
 - 📫 How to reach me **waqasdostdost0092@gmail.com**
+- 📫 Resume **https://drive.google.com/file/d/1hFFM4lEHIECG59OxsOhuCq472tXCkgWM/view?usp=sharing**
 
 - ⚡ Fun fact **I do not like my passion.**
 
