@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on [Cat-Connect](https://github.com/Moon-Khan/CatConnect)
 - 🔭 I worked on these projects [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict)
 
-- 🌱 I’m currently learning **BI, Big Query, Data Pipelines,Tableau,**
+- 🌱 I’m currently learning **BI, Big Query, Data Pipelines, Tableau,Data Science, ML, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dost0092?tab=repositories](https://github.com/dost0092?tab=repositories)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Business Analyst, BI Consultant, Tableau Developer**
 
 - 📫 How to reach me **waqasdostdost0092@gmail.com**
 
