@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dost0092?tab=repositories](https://github.com/dost0092?tab=repositories)
 
-- 💬 Ask me about **Business Analyst, BI Consultant, Tableau Developer**
+- 💬 Ask me about **Business Analysis, BI , Tableau **
 
 - 📫 How to reach me **waqasdostdost0092@gmail.com**
 
