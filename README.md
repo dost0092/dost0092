@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Computer Science student at FAST-NUCES. Enthusiastic about Data Science, I love exploring cutting-edge technologies.</h3>
 
 - 🔭 I’m currently working on [Cat-Connect](https://github.com/Moon-Khan/CatConnect)
-- 🔭 I worked on these projects [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict) | [LOST AND FOUND] (https://github.com/Faizi-48/Web-Final-Project)
+- 🔭 I worked on these projects [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict) | [LOST AND FOUND](https://github.com/Faizi-48/Web-Final-Project)
 
 - 🌱 I’m currently learning **BI, Big Query, Data Pipelines, Tableau,Data Science, ML, Computer Vision**
 
