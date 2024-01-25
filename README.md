@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dost0092" alt="dost0092" /></a> </p>
 
 - 🔭 I’m currently working on [Cat-Connect](https://github.com/Moon-Khan/CatConnect)
-- 🔭 I worked on this project [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis)
+- 🔭 I worked on these projects [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict)
 
-- 🌱 I’m currently learning **BI, Big Query, Data Pipelines,**
+- 🌱 I’m currently learning **BI, Big Query, Data Pipelines,Tableau,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dost0092?tab=repositories](https://github.com/dost0092?tab=repositories)
 
