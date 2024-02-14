@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waqas Dost</h1>
 <h3 align="center">Passionate Computer Science student at FAST-NUCES. Enthusiastic about Data Science, I love exploring cutting-edge technologies.</h3>
 
-- 🔭 I’m currently working on [Cat-Connect](https://github.com/Moon-Khan/FYP-CatConnect)
+- 🔭 I’m currently working on [FYP-CatConnect](https://github.com/Moon-Khan/FYP-CatConnect)
 - 🔭 I worked on these projects
 - [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict) | [LOST AND FOUND](https://github.com/Faizi-48/Web-Final-Project)| [TITANIC_SURVIVAL_PREDICTION](https://github.com/dost0092/CODSOFT)
 
