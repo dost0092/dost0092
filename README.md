@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FYP-CatConnect](https://github.com/Moon-Khan/FYP-CatConnect)
 - 🔭 I worked on these projects
-- [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict) | [LOST AND FOUND](https://github.com/Faizi-48/Web-Final-Project)| [TITANIC_SURVIVAL_PREDICTION](https://github.com/dost0092/CODSOFT) | [Arrhythmia-Detection-Through-ECG-Data-Analysis]([https://github.com/dost0092/CODSOFT](https://github.com/dost0092/Exploring-Arrhythmia-Detection-Through-ECG-Data-Analysis-A-Comprehensive-Study)) | [Web_Scrapping](https://github.com/dost0092/Scraping-Data-from-Mastodon-Social-Explore-Page)
+- [Imtiaz Mall Analysis](https://github.com/dost0092/Imtiaz-Mall-Analysis) | [Causalities-on-Palestine-Israel-Conflict](https://github.com/dost0092/Causalities-on-Palestine-Israel-Conflict) | [LOST AND FOUND](https://github.com/Faizi-48/Web-Final-Project)| [TITANIC_SURVIVAL_PREDICTION](https://github.com/dost0092/CODSOFT) | [Arrhythmia-Detection-Through-ECG-Data-Analysis](https://github.com/dost0092/CODSOFT](https://github.com/dost0092/Exploring-Arrhythmia-Detection-Through-ECG-Data-Analysis-A-Comprehensive-Study) | [Web_Scrapping](https://github.com/dost0092/Scraping-Data-from-Mastodon-Social-Explore-Page)
 
 - 🌱 I’m currently learning **BI, Big Query, Data Pipelines, Tableau,Data Science, ML, Computer Vision**
 
